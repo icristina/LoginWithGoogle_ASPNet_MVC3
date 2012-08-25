@@ -1,0 +1,7 @@
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\bin\LoginWithGoogle.dll
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\bin\LoginWithGoogle.pdb
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\bin\EntityFramework.dll
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\bin\EntityFramework.xml
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\obj\Debug\ResolveAssemblyReference.cache
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\obj\Debug\LoginWithGoogle.dll
+D:\Emipro\Marketing\LoginWithGoogle_ASPNET_MVC3\LoginWithGoogle\LoginWithGoogle\obj\Debug\LoginWithGoogle.pdb
